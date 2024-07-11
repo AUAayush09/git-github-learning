@@ -1,2 +1,4 @@
 this is one file from two;
 adding another file into the folder to commit
+adding another file into the folder to commit
+adding another file into the folder to commit
